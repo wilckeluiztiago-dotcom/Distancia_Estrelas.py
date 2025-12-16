@@ -5,7 +5,7 @@
 
 ## Descrição
 
-Sistema para calcular a distância real entre estrelas usando métodos geométricos. O projeto inclui implementações em **C++** (com GTK4) e **Python** (com Tkinter/Matplotlib), ambas com variáveis em português.
+Sistema para calcular a distância real entre estrelas usando métodos geométricos. O projeto inclui implementações em **C++** (com GTK4) e **Python** (com Tkinter/Matplotlib)
 
 ## Método Geométrico
 
